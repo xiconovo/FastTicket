@@ -74,7 +74,7 @@ Start the frontend development server:
 ```bash
 npm run dev
 ```
-The application will be accessible at `http://localhost:5173` by default.
+The application will be accessible at `http://localhost:5173` by default. If you change this, you need to change the URL on server because of the CORS policy.
 
 ### 4. Database Initialization
 Ensure your MySQL database is running and properly configured. The backend will sync the database schema on startup. If you encounter any issues, check your database connection settings in the `.env` file.
