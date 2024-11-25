@@ -17,7 +17,7 @@ Before setting up the project, ensure you have the following installed on your s
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/fastticket.git
+git clone git@github.com:xiconovo/FastTicket.git
 ```
 
 ### 2. Backend Setup
